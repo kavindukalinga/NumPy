@@ -21,6 +21,9 @@ All python packages are installed using pip – Package Installer for Python. Yo
 6.  You can import NumPy using ( >import numpy as np ) in Python3 files
 Additional: You should consider upgrading pip via the ( >python -m pip install --upgrade pip ) command
 
+# Python NumPy Tutorial
+Click https://cs231n.github.io/python-numpy-tutorial/ link to open resource.
+
 # NumPy https://numpy.org/
 
 # Kavindu Kalinga
