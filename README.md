@@ -3,7 +3,7 @@ Projects using numpy in python3
 # About NumPy
 "NumPy (pronounced /ˈnʌmpaɪ/ (NUM-py) or sometimes /ˈnʌmpi/[4][5] (NUM-pee)) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.[6] The ancestor of NumPy, Numeric, was originally created by Jim Hugunin with contributions from several other developers. In 2005, Travis Oliphant created NumPy by incorporating features of the competing Numarray into Numeric, with extensive modifications. NumPy is open-source software and has many contributors. NumPy is a NumFOCUS fiscally sponsored project" [https://en.wikipedia.org/wiki/NumPy]
 
-#What is NumPy?
+# What is NumPy?
 Python is open source object oriented interpreted language. Of the many features, one of the important features that makes python a strong programming language is Python packages. A lot of external packages are written in python which you can be installed and used depending upon your requirement.
 
 Python packages are nothing but directory of python scripts. Each script is a module which can be a function, methods or new python type created for particular functionality. numpy is one such important package created to ease array computation in python.
@@ -16,10 +16,10 @@ All python packages are installed using pip – Package Installer for Python. Yo
 1. Run cmd
 2.  >pip -V
 3.  If you haven't installed pip, you should first install it
-4.  Go to your python directory (cd "C:\Programs\Python\Python39") it might be different in yours
+4.  Go to your python directory (>cd "C:\Programs\Python\Python39") it might be different in yours
 5.  >pip install numpy
-6.  You can import NumPy using (import numpy as np) in Python3 files
-Additional: You should consider upgrading pip via the (python -m pip install --upgrade pip)  command
+6.  You can import NumPy using (>import numpy as np) in Python3 files
+Additional: You should consider upgrading pip via the (>python -m pip install --upgrade pip)  command
 
 # NumPy https://numpy.org/
 
