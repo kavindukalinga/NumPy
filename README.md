@@ -16,7 +16,7 @@ All python packages are installed using pip – Package Installer for Python. Yo
 1. Run cmd
 2.  >pip -V
 3.  If you haven't installed pip, you should first install it
-4.  Go to your python directory ( >cd "C:\Programs\Python\Python39" ) it might be different in yours
+4.  Go to your python directory ( `cd "C:\Programs\Python\Python39"` ) it might be different in yours
 5.  >pip install numpy
 6.  You can import NumPy using ( >import numpy as np ) in Python3 files
 Additional: You should consider upgrading pip via the ( >python -m pip install --upgrade pip ) command
