@@ -20,8 +20,8 @@ All python packages are installed using pip – Package Installer for Python. Yo
 Additional: You should consider upgrading pip via the `python -m pip install --upgrade pip` command
 
 ### Python NumPy Tutorial
-[Click](https://cs231n.github.io/python-numpy-tutorial/) to open resource.  
+[Here](https://cs231n.github.io/python-numpy-tutorial/) is free NumPy resource.  
 
-### [NumPy website](https://numpy.org/)
+### NumPy [website](https://numpy.org/)
 
 ## [Kavindu Kalinga](https://www.linkedin.com/in/kalingachandrasiri/)
