@@ -24,4 +24,4 @@ Additional: You should consider upgrading pip via the `python -m pip install --u
 
 ### NumPy [website](https://numpy.org/)
 
-## [Kavindu Kalinga](https://www.linkedin.com/in/kalingachandrasiri/)
+## Kavindu Kalinga [[in]](https://www.linkedin.com/in/kalingachandrasiri/)
