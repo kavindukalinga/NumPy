@@ -25,8 +25,7 @@ Additional: You should consider upgrading pip via the `python -m pip install --u
 ### NumPy [website](https://numpy.org/)
 
 <!-- shields.io -->
-<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/NumPY_01" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/NumPY_01" alt="kavindukalinga" /> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="NumPY_01" /></a> </p>
-<p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="NumPY_01" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/NumPY_01" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/NumPY_01" alt="kavindukalinga" /> <img src="https://img.shields.io/github/last-commit/kavindukalinga/NumPY_01" alt="kavindukalinga" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
