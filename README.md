@@ -19,10 +19,12 @@ All python packages are installed using pip – Package Installer for Python. Yo
 6.  You can import NumPy using `import numpy as np` in Python3 files   
 Additional: You should consider upgrading pip via the `python -m pip install --upgrade pip` command
 
-[Here](https://www.w3schools.in/matplotlib/tutorials/introduction) is the reference for ***Plots.ipynb***
+
 
 ### Python NumPy Tutorial
-[Here](https://cs231n.github.io/python-numpy-tutorial/) is free NumPy resource.  
+> [Here](https://cs231n.github.io/python-numpy-tutorial/) is free NumPy resource.  
+> 
+> [Here](https://www.w3schools.in/matplotlib/tutorials/introduction) is the reference for ***Plots.ipynb***
 
 ### NumPy [website](https://numpy.org/)
 
